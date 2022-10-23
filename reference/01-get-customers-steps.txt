@@ -1,0 +1,5 @@
+Step 1: Create Customer REST Controller
+
+Step 2: Autowire Customer Service
+
+Step 3: Add mapping for GET /customers
